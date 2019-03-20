@@ -1,0 +1,38 @@
+{
+    "name": "madooding-extension-pack",
+    "displayName": "madooding's extension pack",
+    "publisher": "madooding",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "JerryHong.autofilename", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "dariofuzinato.vue-peek", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "ionutvmi.path-autocomplete", 
+        "joelday.docthis", 
+        "leizongmin.node-module-intellisense", 
+        "mrmlnc.vscode-less", 
+        "octref.vetur", 
+        "oysun.vuehelper", 
+        "seanwash.vue", 
+        "vincaslt.highlight-matching-tag", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wayou.vscode-todo-highlight", 
+        "xabikos.JavaScriptSnippets", 
+        "Zignd.html-css-class-completion"
+    ]
+}
